@@ -9,10 +9,6 @@
             "error",
             "LabeledStatement",
             "WithStatement"
-        ],
-        "import/extensions": [
-            "error",
-            "ignorePackages"
-            ]
+        ]
    }
 }
