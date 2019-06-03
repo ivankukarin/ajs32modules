@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivankukarin/ajs31.git"
+    "url": "git+https://github.com/ivankukarin/ajs32.git"
   },
   "keywords": [
     "module"
@@ -34,7 +34,7 @@
   "author": "ivankukarin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ivankukarin/ajs31/issues"
+    "url": "https://github.com/ivankukarin/ajs32/issues"
   },
-  "homepage": "https://github.com/ivankukarin/ajs31#readme"
+  "homepage": "https://github.com/ivankukarin/ajs32#readme"
 }
